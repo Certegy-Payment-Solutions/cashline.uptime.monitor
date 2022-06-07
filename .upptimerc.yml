@@ -5,15 +5,15 @@ sites:
   - name: Cashline Tomcat - PROD
     url: https://certegycashline.com/
   - name: Cashline Java - PROD
-    url: https://cashline.certegy.com/
+    url: https://cashline.certegy.com/health
   - name: Cashline Tomcat - CCE
     url: https://cce.certegycashline.com/
   - name: Cashline Java - CCE
-    url: https://cce.cashline.certegy.com/
+    url: https://cce.cashline.certegy.com/health
   - name: Cashline Tomcat - UAT
     url: https://uat.certegycashline.com/
   - name: Cashline Java - UAT
-    url: https://aut.cashline.certegy.com/
+    url: https://uat.cashline.certegy.com/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
