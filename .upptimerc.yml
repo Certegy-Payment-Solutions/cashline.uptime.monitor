@@ -14,6 +14,14 @@ sites:
     url: https://uat.certegycashline.com/
   - name: Cashline Java - UAT
     url: https://uat.cashline.certegy.com/health
+  - name: Cashline Tomcat - QA
+    url: https://qa.certegycashline.com/
+  - name: Cashline Java - QA
+    url: https://qa.cashline.certegy.com/health
+  - name: Cashline Tomcat - Dev
+    url: https://dev.certegycashline.com/
+  - name: Cashline Java - Dev
+    url: https://dev.cashline.certegy.com/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,8 +29,8 @@ status-website:
   baseUrl: /cashline.uptime.tomcat
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Cashline Gaming Uptime 
-  introTitle: "This app monitors uptime and status page, powered entirely by GitHub."
-  introMessage: Alert respective team members if status its red
+  introTitle: "This page monitors uptime and status of Certegy Gaming Applications."
+  introMessage: Please inform AWS Team if you see any outages (awsteam@certegy.com)
   navbar:
     - title: Status
       href: /
