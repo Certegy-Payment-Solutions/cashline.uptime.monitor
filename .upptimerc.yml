@@ -1,6 +1,6 @@
 # Change these first
 owner: Certegy-Payment-Solutions
-repo: cashline.uptime.tomcat
+repo: cashline.uptime.monitor
 sites:
   - name: Cashline Tomcat - PROD
     url: https://certegycashline.com/
@@ -26,7 +26,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /cashline.uptime.tomcat
+  baseUrl: /cashline.uptime.monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Cashline Gaming Uptime 
   introTitle: "This page monitors uptime and status of Certegy Gaming Applications."
