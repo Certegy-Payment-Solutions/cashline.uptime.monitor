@@ -58,19 +58,19 @@
     "url": "https://cce.cashline.certegy.com/health",
     "icon": "https://favicons.githubusercontent.com/cce.cashline.certegy.com",
     "slug": "cashline-java-cce",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1507,
-    "timeDay": 1870,
-    "timeWeek": 1507,
-    "timeMonth": 1507,
-    "timeYear": 1507,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
+    "time": 1524,
+    "timeDay": 1756,
+    "timeWeek": 1524,
+    "timeMonth": 1524,
+    "timeYear": 1524,
     "dailyMinutesDown": {
-      "2022-06-09": 0
+      "2022-06-09": 29
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-06-09": 671,
+      "2022-06-09": 699,
       "2022-06-08": 1440,
       "2022-06-07": 313
     }
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 671,
+      "2022-06-09": 699,
       "2022-06-08": 1440,
       "2022-06-07": 313
     }
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 671,
+      "2022-06-09": 700,
       "2022-06-08": 1440,
       "2022-06-07": 313
     }
