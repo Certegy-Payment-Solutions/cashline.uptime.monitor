@@ -4,19 +4,19 @@
     "url": "https://certegycashline.com/",
     "icon": "https://favicons.githubusercontent.com/certegycashline.com",
     "slug": "cashline-tomcat-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 370,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 290,
+    "timeDay": 331,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-06-10": 0
+      "2022-06-10": 11
     }
   },
   {
@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/cce.cashline.certegy.com",
     "slug": "cashline-java-cce",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 1551,
     "timeDay": 1769,
     "timeWeek": 1551,
@@ -148,7 +148,7 @@
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-06-10": 1212,
+      "2022-06-10": 1224,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 313
@@ -171,7 +171,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-10": 1212,
+      "2022-06-10": 1224,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 313
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-10": 1212,
+      "2022-06-10": 1224,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 313
