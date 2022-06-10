@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 481,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 302,
+    "timeDay": 501,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1534,
-    "timeDay": 2010,
-    "timeWeek": 1534,
-    "timeMonth": 1534,
-    "timeYear": 1534,
+    "time": 1604,
+    "timeDay": 2095,
+    "timeWeek": 1604,
+    "timeMonth": 1604,
+    "timeYear": 1604,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 520,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 321,
+    "timeDay": 515,
+    "timeWeek": 321,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {}
   },
   {
@@ -59,16 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/cce.cashline.certegy.com",
     "slug": "cashline-java-cce",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "99.12%",
     "uptimeDay": "98.02%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
-    "time": 1524,
-    "timeDay": 1756,
-    "timeWeek": 1524,
-    "timeMonth": 1524,
-    "timeYear": 1524,
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 1551,
+    "timeDay": 1706,
+    "timeWeek": 1551,
+    "timeMonth": 1551,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2022-06-09": 29
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 517,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "time": 300,
+    "timeDay": 512,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -97,16 +97,16 @@
     "icon": "https://favicons.githubusercontent.com/uat.cashline.certegy.com",
     "slug": "cashline-java-uat",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1681,
-    "timeDay": 1861,
-    "timeWeek": 1681,
-    "timeMonth": 1681,
-    "timeYear": 1681,
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1694,
+    "timeDay": 1770,
+    "timeWeek": 1694,
+    "timeMonth": 1694,
+    "timeYear": 1694,
     "dailyMinutesDown": {
       "2022-06-07": 5
     }
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 482,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 315,
+    "timeDay": 508,
+    "timeWeek": 315,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   },
   {
@@ -140,13 +140,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 246,
-    "timeDay": 402,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "time": 262,
+    "timeDay": 342,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-06-09": 699,
+      "2022-06-10": 22,
+      "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 313
     }
@@ -168,7 +169,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 699,
+      "2022-06-10": 22,
+      "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 313
     }
@@ -190,7 +192,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 700,
+      "2022-06-10": 22,
+      "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 313
     }
