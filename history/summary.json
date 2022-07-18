@@ -82,19 +82,19 @@
     "url": "https://uat.certegycashline.com/",
     "icon": "https://favicons.githubusercontent.com/uat.certegycashline.com",
     "slug": "cashline-tomcat-uat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 271,
-    "timeWeek": 336,
-    "timeMonth": 317,
-    "timeYear": 306,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 307,
+    "timeDay": 306,
+    "timeWeek": 340,
+    "timeMonth": 319,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2022-07-18": 0
+      "2022-07-18": 7
     }
   },
   {
@@ -154,7 +154,7 @@
     "timeMonth": 252,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-07-18": 1171,
+      "2022-07-18": 1178,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-18": 1171,
+      "2022-07-18": 1178,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-18": 1171,
+      "2022-07-18": 1178,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
