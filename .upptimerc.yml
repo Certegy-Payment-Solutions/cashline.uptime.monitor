@@ -23,11 +23,11 @@ sites:
   - name: Cashline Java - Dev
     url: https://dev.cashline.certegy.com/health
   - name: BNPL Consumer Portal - UAT
-    url:  https://bnpl-consumer-portal-uat.certegy.com/health
+    url:  https://bnpl-consumer-portal-uat.certegy.com
   - name: BNPL Consumer Portal - DEV
-    url:  https://bnpl-consumer-portal-dev.certegy.com/health
+    url:  https://bnpl-consumer-portal-dev.certegy.com
   - name: BNPL Consumer Portal - Prod
-    url:  https://dashboard.certegy.com/health
+    url:  https://dashboard.certegy.com
   - name: Bankpay - Prod
     url:  https://bankpay.certegy.com/health
   - name: Bankpay - CCE
