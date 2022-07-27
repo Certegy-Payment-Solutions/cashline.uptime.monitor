@@ -22,6 +22,19 @@ sites:
     url: https://dev.certegycashline.com/
   - name: Cashline Java - Dev
     url: https://dev.cashline.certegy.com/health
+  - name: BNPL Consumer Portal - UAT
+    url:  https://bnpl-consumer-portal-uat.certegy.com/health
+  - name: BNPL Consumer Portal - DEV
+    url:  https://bnpl-consumer-portal-dev.certegy.com/health
+  - name: BNPL Consumer Portal - Prod
+    url:  https://dashboard.certegy.com/health
+  - name: Bankpay - Prod
+    url:  https://bankpay.certegy.com/health
+  - name: Bankpay - CCE
+    url:  https://cce.bankpay.certegy.com/health
+  - name: Bankpay - QA
+    url:  https://qa.bankpay.certegy.com/health
+ 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
