@@ -41,8 +41,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /cashline.uptime.monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Cashline Gaming Uptime 
-  introTitle: "This page monitors uptime and status of Certegy Gaming Applications."
+  name: Certegy Uptime Monitor 
+  introTitle: "This page monitors uptime and status of Certegy Applications."
   introMessage: Please inform AWS Team if you see any outages (awsteam@certegy.com)
   navbar:
     - title: Status
