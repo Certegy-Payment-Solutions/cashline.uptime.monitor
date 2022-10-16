@@ -230,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-16": 33,
+      "2022-10-16": 70,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
@@ -381,7 +381,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-16": 33,
+      "2022-10-16": 70,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
@@ -613,9 +613,9 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -624,6 +624,8 @@
     "timeWeek": 316,
     "timeMonth": 348,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-16": 0
+    }
   }
 ]
