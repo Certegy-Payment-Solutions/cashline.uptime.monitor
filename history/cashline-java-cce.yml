@@ -1,7 +1,7 @@
 url: https://cce.cashline.certegy.com/health
-status: down
-code: 403
-responseTime: 42
-lastUpdated: 2022-11-13T09:15:34.211Z
+status: up
+code: 200
+responseTime: 946
+lastUpdated: 2022-11-13T09:26:26.130Z
 startTime: Tue Jun 07 2022 18:29:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
