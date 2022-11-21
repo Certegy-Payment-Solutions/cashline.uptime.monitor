@@ -1,7 +1,7 @@
 url: https://uat.certegycashline.com/
-status: up
-code: 200
-responseTime: 74
-lastUpdated: 2022-11-21T10:33:12.414Z
+status: down
+code: 403
+responseTime: 105
+lastUpdated: 2022-11-21T10:49:26.865Z
 startTime: Tue Jun 07 2022 18:29:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
