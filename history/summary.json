@@ -328,11 +328,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.cashline.certegy.com.ico",
     "slug": "cashline-java-qa",
     "status": "up",
-    "uptime": "73.53%",
+    "uptime": "73.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.53%",
+    "uptimeYear": "73.54%",
     "time": 8041,
     "timeDay": 24374,
     "timeWeek": 24254,
@@ -781,19 +781,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "89.78%",
-    "uptimeWeek": "91.41%",
+    "status": "down",
+    "uptime": "97.85%",
+    "uptimeDay": "89.72%",
+    "uptimeWeek": "91.40%",
     "uptimeMonth": "94.62%",
-    "uptimeYear": "97.82%",
+    "uptimeYear": "97.85%",
     "time": 349,
     "timeDay": 389,
     "timeWeek": 347,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-12-17": 147,
+      "2022-12-17": 148,
       "2022-12-16": 21,
       "2022-12-15": 562,
       "2022-12-14": 75,
@@ -835,7 +835,7 @@
       "2022-11-05": 56,
       "2022-11-04": 1193,
       "2022-11-03": 35,
-      "2022-11-02": 72
+      "2022-11-02": 20
     }
   },
   {
@@ -843,10 +843,10 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "97.88%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "92.46%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "92.45%",
     "uptimeMonth": "95.02%",
     "uptimeYear": "97.88%",
     "time": 361,
@@ -855,7 +855,7 @@
     "timeMonth": 358,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2022-12-17": 47,
+      "2022-12-17": 48,
       "2022-12-16": 20,
       "2022-12-15": 561,
       "2022-12-14": 72,
@@ -898,7 +898,7 @@
       "2022-11-04": 1192,
       "2022-11-03": 33,
       "2022-11-02": 104,
-      "2022-11-01": 47
+      "2022-11-01": 31
     }
   }
 ]
