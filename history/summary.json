@@ -328,11 +328,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.cashline.certegy.com.ico",
     "slug": "cashline-java-qa",
     "status": "up",
-    "uptime": "74.34%",
+    "uptime": "74.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.34%",
+    "uptimeYear": "74.35%",
     "time": 8512,
     "timeDay": 24191,
     "timeWeek": 24171,
@@ -781,19 +781,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "91.78%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "91.77%",
     "uptimeMonth": "93.88%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.55%",
     "time": 347,
     "timeDay": 335,
     "timeWeek": 346,
     "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-12-23": 176,
+      "2022-12-23": 177,
       "2022-12-22": 95,
       "2022-12-21": 53,
       "2022-12-20": 175,
@@ -828,7 +828,7 @@
       "2022-11-19": 63,
       "2022-11-18": 153,
       "2022-11-17": 55,
-      "2022-11-16": 94
+      "2022-11-16": 52
     }
   },
   {
@@ -836,19 +836,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "87.96%",
-    "uptimeWeek": "92.90%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "87.91%",
+    "uptimeWeek": "92.89%",
     "uptimeMonth": "94.23%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.59%",
     "time": 361,
     "timeDay": 380,
     "timeWeek": 366,
     "timeMonth": 364,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2022-12-23": 172,
+      "2022-12-23": 173,
       "2022-12-22": 94,
       "2022-12-21": 51,
       "2022-12-20": 174,
@@ -884,7 +884,7 @@
       "2022-11-18": 136,
       "2022-11-17": 54,
       "2022-11-16": 115,
-      "2022-11-15": 177
+      "2022-11-15": 38
     }
   }
 ]
