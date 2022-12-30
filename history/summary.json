@@ -782,10 +782,10 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "94.05%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "94.04%",
     "uptimeMonth": "93.44%",
     "uptimeYear": "98.61%",
     "time": 348,
@@ -794,7 +794,7 @@
     "timeMonth": 351,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-12-30": 19,
+      "2022-12-30": 20,
       "2022-12-29": 87,
       "2022-12-28": 85,
       "2022-12-27": 57,
@@ -826,8 +826,7 @@
       "2022-11-30": 88,
       "2022-11-29": 73,
       "2022-11-28": 38,
-      "2022-11-26": 56,
-      "2022-11-25": 18
+      "2022-11-26": 56
     }
   },
   {
@@ -835,19 +834,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "94.37%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "94.32%",
     "uptimeWeek": "94.60%",
     "uptimeMonth": "93.89%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 361,
     "timeDay": 365,
     "timeWeek": 353,
     "timeMonth": 361,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2022-12-30": 18,
+      "2022-12-30": 19,
       "2022-12-29": 87,
       "2022-12-28": 54,
       "2022-12-27": 57,
@@ -884,7 +883,7 @@
       "2022-11-24": 72,
       "2022-11-22": 24,
       "2022-11-21": 18,
-      "2022-11-20": 38
+      "2022-11-20": 19
     }
   }
 ]
