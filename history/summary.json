@@ -328,11 +328,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.cashline.certegy.com.ico",
     "slug": "cashline-java-qa",
     "status": "up",
-    "uptime": "75.41%",
+    "uptime": "75.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.41%",
+    "uptimeYear": "75.42%",
     "time": 9101,
     "timeDay": 24205,
     "timeWeek": 24179,
@@ -784,17 +784,17 @@
     "slug": "bankpay-cce",
     "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "98.63%",
     "time": 358,
-    "timeDay": 541,
+    "timeDay": 533,
     "timeWeek": 415,
     "timeMonth": 369,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2023-01-01": 1,
+      "2023-01-01": 15,
       "2022-12-31": 125,
       "2022-12-30": 196,
       "2022-12-29": 87,
@@ -824,7 +824,7 @@
       "2022-12-04": 31,
       "2022-12-03": 18,
       "2022-12-02": 213,
-      "2022-12-01": 107
+      "2022-12-01": 91
     }
   },
   {
@@ -833,18 +833,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.66%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "98.66%",
     "time": 368,
-    "timeDay": 337,
-    "timeWeek": 404,
+    "timeDay": 336,
+    "timeWeek": 403,
     "timeMonth": 374,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-01-01": 1,
+      "2023-01-01": 15,
       "2022-12-31": 123,
       "2022-12-30": 103,
       "2022-12-29": 87,
@@ -877,7 +877,7 @@
       "2022-12-01": 137,
       "2022-11-30": 85,
       "2022-11-29": 71,
-      "2022-11-28": 36
+      "2022-11-28": 15
     }
   }
 ]
