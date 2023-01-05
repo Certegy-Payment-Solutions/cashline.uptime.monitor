@@ -71,7 +71,7 @@
     "time": 671,
     "timeDay": 1261,
     "timeWeek": 1140,
-    "timeMonth": 655,
+    "timeMonth": 657,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2022-12-09": 51,
@@ -782,19 +782,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "91.88%",
-    "uptimeMonth": "93.17%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "92.08%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "98.72%",
     "time": 359,
     "timeDay": 417,
-    "timeWeek": 428,
-    "timeMonth": 368,
+    "timeWeek": 429,
+    "timeMonth": 369,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2023-01-05": 86,
+      "2023-01-05": 87,
       "2023-01-04": 97,
       "2023-01-03": 39,
       "2023-01-02": 182,
@@ -821,7 +821,7 @@
       "2022-12-11": 25,
       "2022-12-10": 79,
       "2022-12-09": 73,
-      "2022-12-08": 47
+      "2022-12-08": 31
     }
   },
   {
@@ -829,19 +829,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "92.22%",
-    "uptimeWeek": "93.18%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "92.16%",
+    "uptimeWeek": "93.38%",
     "uptimeMonth": "93.54%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 368,
     "timeDay": 376,
-    "timeWeek": 410,
+    "timeWeek": 411,
     "timeMonth": 373,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-01-05": 70,
+      "2023-01-05": 71,
       "2023-01-04": 96,
       "2023-01-03": 37,
       "2023-01-02": 165,
@@ -872,8 +872,7 @@
       "2022-12-07": 77,
       "2022-12-06": 28,
       "2022-12-05": 32,
-      "2022-12-04": 30,
-      "2022-12-03": 17
+      "2022-12-04": 30
     }
   }
 ]
