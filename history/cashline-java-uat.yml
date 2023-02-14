@@ -1,7 +1,7 @@
 url: https://uat.cashline.certegy.com/health
-status: down
-code: 503
-responseTime: 277
-lastUpdated: 2023-02-14T04:57:40.318Z
+status: up
+code: 200
+responseTime: 4427
+lastUpdated: 2023-02-14T05:25:35.142Z
 startTime: Tue Jun 07 2022 18:29:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
