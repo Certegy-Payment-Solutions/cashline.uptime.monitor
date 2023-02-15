@@ -15,9 +15,9 @@ sites:
   - name: Cashline Java - UAT
     url: https://uat.cashline.certegy.com/health
   - name: Cashline Tomcat - QA
-    url: https://qa.certegycashline.com/
+    url: https://qat.certegycashline.com/
   - name: Cashline Java - QA
-    url: https://qa.cashline.certegy.com/health
+    url: https://qat.cashline.certegy.com/health
   - name: Cashline Tomcat - Dev
     url: https://dev.certegycashline.com/
   - name: Cashline Java - Dev
