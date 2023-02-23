@@ -415,18 +415,19 @@
     "url": "https://dev.certegycashline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "48.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "48.74%",
     "time": 252,
-    "timeDay": 245,
-    "timeWeek": 225,
+    "timeDay": 249,
+    "timeWeek": 229,
     "timeMonth": 272,
     "timeYear": 252,
     "dailyMinutesDown": {
+      "2023-02-23": 1,
       "2022-10-19": 865,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
@@ -805,9 +806,9 @@
     "slug": "bankpay-cce",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "94.26%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "99.17%",
     "time": 378,
     "timeDay": 383,
@@ -815,7 +816,7 @@
     "timeMonth": 403,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-02-23": 93,
+      "2023-02-23": 85,
       "2023-02-22": 49,
       "2023-02-21": 71,
       "2023-02-20": 154,
@@ -837,7 +838,7 @@
       "2023-02-04": 72,
       "2023-02-03": 180,
       "2023-02-02": 154,
-      "2023-02-01": 92
+      "2023-02-01": 114
     }
   },
   {
@@ -846,18 +847,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "93.25%",
-    "uptimeMonth": "94.35%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.18%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "93.32%",
+    "uptimeMonth": "94.32%",
+    "uptimeYear": "99.18%",
     "time": 377,
     "timeDay": 534,
     "timeWeek": 409,
     "timeMonth": 390,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-02-23": 92,
+      "2023-02-23": 84,
       "2023-02-22": 49,
       "2023-02-21": 71,
       "2023-02-20": 152,
@@ -879,7 +880,8 @@
       "2023-02-04": 72,
       "2023-02-03": 177,
       "2023-02-02": 153,
-      "2023-02-01": 112
+      "2023-02-01": 112,
+      "2023-01-31": 19
     }
   }
 ]
