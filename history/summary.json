@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cce.cashline.certegy.com.ico",
     "slug": "cashline-java-cce",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.63%",
     "time": 1947,
     "timeDay": 1116,
     "timeWeek": 863,
@@ -803,11 +803,11 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "88.78%",
-    "uptimeWeek": "89.53%",
-    "uptimeMonth": "94.21%",
+    "uptimeDay": "88.76%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "99.20%",
     "time": 378,
     "timeDay": 402,
@@ -815,7 +815,7 @@
     "timeMonth": 395,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-03-04": 44,
+      "2023-03-04": 45,
       "2023-03-03": 198,
       "2023-03-02": 110,
       "2023-03-01": 172,
@@ -835,7 +835,7 @@
       "2023-02-15": 116,
       "2023-02-14": 41,
       "2023-02-13": 136,
-      "2023-02-12": 148
+      "2023-02-12": 128
     }
   },
   {
@@ -843,19 +843,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "88.97%",
-    "uptimeWeek": "89.72%",
-    "uptimeMonth": "94.31%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "89.71%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "99.22%",
     "time": 380,
     "timeDay": 433,
     "timeWeek": 380,
     "timeMonth": 400,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-03-04": 43,
+      "2023-03-04": 44,
       "2023-03-03": 196,
       "2023-03-02": 107,
       "2023-03-01": 167,
@@ -875,8 +875,7 @@
       "2023-02-15": 114,
       "2023-02-14": 39,
       "2023-02-13": 134,
-      "2023-02-12": 129,
-      "2023-02-11": 17
+      "2023-02-12": 129
     }
   }
 ]
