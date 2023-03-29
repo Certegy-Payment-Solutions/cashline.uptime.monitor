@@ -418,7 +418,7 @@
     "status": "up",
     "uptime": "54.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.04%",
+    "uptimeWeek": "97.37%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "54.50%",
     "time": 244,
@@ -804,19 +804,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "94.68%",
-    "uptimeYear": "99.34%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "99.35%",
     "time": 377,
-    "timeDay": 382,
+    "timeDay": 374,
     "timeWeek": 358,
     "timeMonth": 376,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-03-29": 45,
+      "2023-03-29": 46,
       "2023-03-28": 91,
       "2023-03-27": 41,
       "2023-03-26": 78,
@@ -843,7 +843,7 @@
       "2023-03-05": 58,
       "2023-03-04": 44,
       "2023-03-03": 198,
-      "2023-03-02": 75
+      "2023-03-02": 47
     }
   },
   {
@@ -851,19 +851,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "92.27%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "94.66%",
+    "uptimeDay": "93.04%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "99.34%",
     "time": 380,
-    "timeDay": 384,
+    "timeDay": 378,
     "timeWeek": 358,
-    "timeMonth": 383,
+    "timeMonth": 384,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-03-29": 43,
+      "2023-03-29": 44,
       "2023-03-28": 89,
       "2023-03-27": 39,
       "2023-03-26": 76,
@@ -891,7 +891,7 @@
       "2023-03-04": 43,
       "2023-03-03": 196,
       "2023-03-02": 107,
-      "2023-03-01": 110
+      "2023-03-01": 87
     }
   }
 ]
