@@ -415,18 +415,19 @@
     "url": "https://dev.certegycashline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "54.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "54.77%",
     "time": 243,
-    "timeDay": 46,
-    "timeWeek": 229,
-    "timeMonth": 211,
+    "timeDay": 110,
+    "timeWeek": 223,
+    "timeMonth": 210,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2023-03-31": 1,
       "2023-03-22": 419,
       "2022-10-19": 865,
       "2022-10-18": 1440,
@@ -806,9 +807,9 @@
     "slug": "bankpay-cce",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "95.45%",
-    "uptimeMonth": "94.68%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "99.34%",
     "time": 377,
     "timeDay": 381,
@@ -816,7 +817,6 @@
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-03-31": 7,
       "2023-03-30": 46,
       "2023-03-29": 83,
       "2023-03-28": 91,
@@ -844,7 +844,7 @@
       "2023-03-06": 116,
       "2023-03-05": 58,
       "2023-03-04": 44,
-      "2023-03-03": 182
+      "2023-03-03": 198
     }
   },
   {
@@ -854,9 +854,9 @@
     "slug": "bankpay-qa",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "94.65%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "94.62%",
     "uptimeYear": "99.34%",
     "time": 380,
     "timeDay": 381,
@@ -864,7 +864,6 @@
     "timeMonth": 383,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-03-31": 6,
       "2023-03-30": 45,
       "2023-03-29": 81,
       "2023-03-28": 89,
@@ -894,7 +893,7 @@
       "2023-03-04": 43,
       "2023-03-03": 196,
       "2023-03-02": 107,
-      "2023-03-01": 26
+      "2023-03-01": 42
     }
   }
 ]
