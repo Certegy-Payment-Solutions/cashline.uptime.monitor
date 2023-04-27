@@ -806,19 +806,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "93.83%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "99.37%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "94.39%",
+    "uptimeYear": "99.38%",
     "time": 376,
     "timeDay": 325,
     "timeWeek": 364,
     "timeMonth": 368,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-04-27": 20,
+      "2023-04-27": 21,
       "2023-04-26": 76,
       "2023-04-25": 113,
       "2023-04-24": 156,
@@ -847,7 +847,7 @@
       "2023-03-31": 43,
       "2023-03-30": 46,
       "2023-03-29": 83,
-      "2023-03-28": 91
+      "2023-03-28": 69
     }
   },
   {
@@ -855,19 +855,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "95.53%",
-    "uptimeWeek": "95.58%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "94.99%",
+    "uptimeYear": "99.43%",
     "time": 379,
     "timeDay": 360,
     "timeWeek": 379,
     "timeMonth": 373,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-04-27": 19,
+      "2023-04-27": 20,
       "2023-04-26": 46,
       "2023-04-25": 33,
       "2023-04-24": 96,
@@ -898,7 +898,7 @@
       "2023-03-29": 81,
       "2023-03-28": 89,
       "2023-03-27": 39,
-      "2023-03-26": 76
+      "2023-03-26": 58
     }
   }
 ]
