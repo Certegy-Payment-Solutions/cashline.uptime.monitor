@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/certegycashline.com.ico",
     "slug": "cashline-tomcat-prod",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 200,
     "timeDay": 139,
     "timeWeek": 265,
-    "timeMonth": 279,
+    "timeMonth": 273,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2022-12-09": 51,
@@ -130,7 +130,7 @@
     "time": 201,
     "timeDay": 106,
     "timeWeek": 279,
-    "timeMonth": 284,
+    "timeMonth": 279,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2022-11-28": 54,
@@ -175,7 +175,7 @@
     "time": 1879,
     "timeDay": 729,
     "timeWeek": 764,
-    "timeMonth": 783,
+    "timeMonth": 779,
     "timeYear": 1879,
     "dailyMinutesDown": {
       "2023-02-15": 184,
@@ -228,7 +228,7 @@
     "time": 228,
     "timeDay": 69,
     "timeWeek": 200,
-    "timeMonth": 243,
+    "timeMonth": 238,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2022-11-28": 22,
@@ -273,7 +273,7 @@
     "time": 872,
     "timeDay": 656,
     "timeWeek": 781,
-    "timeMonth": 773,
+    "timeMonth": 769,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2023-02-15": 158,
@@ -321,12 +321,12 @@
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
     "time": 264,
     "timeDay": 120,
     "timeWeek": 274,
-    "timeMonth": 261,
+    "timeMonth": 262,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2023-03-31": 16,
@@ -350,7 +350,7 @@
     "time": 8806,
     "timeDay": 724,
     "timeWeek": 805,
-    "timeMonth": 777,
+    "timeMonth": 773,
     "timeYear": 8806,
     "dailyMinutesDown": {
       "2023-02-15": 1001,
@@ -581,7 +581,7 @@
     "time": 1988,
     "timeDay": 613,
     "timeWeek": 735,
-    "timeMonth": 815,
+    "timeMonth": 812,
     "timeYear": 1988,
     "dailyMinutesDown": {
       "2023-02-15": 130,
@@ -793,7 +793,7 @@
     "time": 481,
     "timeDay": 187,
     "timeWeek": 375,
-    "timeMonth": 369,
+    "timeMonth": 364,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2022-12-26": 22,
@@ -807,18 +807,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "94.49%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.39%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "94.87%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "99.39%",
     "time": 376,
     "timeDay": 371,
-    "timeWeek": 366,
+    "timeWeek": 367,
     "timeMonth": 369,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-04-30": 26,
+      "2023-04-30": 22,
       "2023-04-29": 26,
       "2023-04-28": 20,
       "2023-04-27": 104,
@@ -847,7 +847,8 @@
       "2023-04-03": 107,
       "2023-04-02": 64,
       "2023-04-01": 83,
-      "2023-03-31": 43
+      "2023-03-31": 43,
+      "2023-03-30": 20
     }
   },
   {
@@ -856,18 +857,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "95.19%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.43%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "99.43%",
     "time": 379,
     "timeDay": 348,
-    "timeWeek": 375,
-    "timeMonth": 375,
+    "timeWeek": 376,
+    "timeMonth": 374,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-04-30": 25,
+      "2023-04-30": 22,
       "2023-04-29": 25,
       "2023-04-28": 19,
       "2023-04-27": 101,
@@ -899,7 +900,7 @@
       "2023-03-31": 42,
       "2023-03-30": 45,
       "2023-03-29": 81,
-      "2023-03-28": 21
+      "2023-03-28": 68
     }
   }
 ]
