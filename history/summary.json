@@ -748,19 +748,19 @@
     "url": "https://bnpl-consumer-portal-dev.certegy.com",
     "icon": "https://icons.duckduckgo.com/ip3/bnpl-consumer-portal-dev.certegy.com.ico",
     "slug": "bnpl-consumer-portal-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 92,
-    "timeWeek": 76,
-    "timeMonth": 81,
+    "timeDay": 131,
+    "timeWeek": 91,
+    "timeMonth": 85,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2023-05-09": 1
+      "2023-05-09": 7
     }
   },
   {
