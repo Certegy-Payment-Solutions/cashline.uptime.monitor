@@ -266,9 +266,9 @@
     "slug": "cashline-java-uat",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 871,
     "timeDay": 1241,
@@ -276,7 +276,6 @@
     "timeMonth": 814,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2023-05-09": 8,
       "2023-02-15": 158,
       "2023-02-14": 294,
       "2023-02-13": 185,
@@ -749,18 +748,20 @@
     "url": "https://bnpl-consumer-portal-dev.certegy.com",
     "icon": "https://icons.duckduckgo.com/ip3/bnpl-consumer-portal-dev.certegy.com.ico",
     "slug": "bnpl-consumer-portal-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 38,
-    "timeWeek": 66,
-    "timeMonth": 79,
+    "timeDay": 92,
+    "timeWeek": 76,
+    "timeMonth": 81,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 1
+    }
   },
   {
     "name": "BNPL Consumer Portal - Prod",
