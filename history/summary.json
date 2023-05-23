@@ -417,11 +417,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
     "status": "up",
-    "uptime": "61.65%",
+    "uptime": "61.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.65%",
+    "uptimeYear": "61.66%",
     "time": 240,
     "timeDay": 0,
     "timeWeek": 169,
@@ -806,19 +806,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "96.73%",
+    "uptimeDay": "93.29%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "95.59%",
     "uptimeYear": "99.43%",
     "time": 377,
     "timeDay": 380,
-    "timeWeek": 389,
+    "timeWeek": 390,
     "timeMonth": 379,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-05-23": 72,
+      "2023-05-23": 73,
       "2023-05-22": 41,
       "2023-05-21": 24,
       "2023-05-20": 75,
@@ -856,7 +856,7 @@
       "2023-04-16": 67,
       "2023-04-15": 16,
       "2023-04-14": 53,
-      "2023-04-13": 82
+      "2023-04-13": 63
     }
   },
   {
@@ -864,19 +864,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "99.47%",
     "time": 380,
     "timeDay": 362,
     "timeWeek": 375,
     "timeMonth": 384,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-05-23": 71,
+      "2023-05-23": 72,
       "2023-05-22": 40,
       "2023-05-21": 24,
       "2023-05-20": 74,
@@ -915,7 +915,7 @@
       "2023-04-15": 16,
       "2023-04-14": 51,
       "2023-04-13": 76,
-      "2023-04-12": 45
+      "2023-04-12": 23
     }
   }
 ]
