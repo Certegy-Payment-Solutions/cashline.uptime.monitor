@@ -417,11 +417,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
     "status": "up",
-    "uptime": "62.20%",
+    "uptime": "62.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.20%",
+    "uptimeYear": "62.21%",
     "time": 240,
     "timeDay": 90,
     "timeWeek": 209,
@@ -806,19 +806,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "90.65%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "99.43%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "99.44%",
     "time": 377,
     "timeDay": 353,
     "timeWeek": 380,
     "timeMonth": 382,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-05-28": 119,
+      "2023-05-28": 120,
       "2023-05-27": 16,
       "2023-05-26": 17,
       "2023-05-25": 64,
@@ -855,8 +855,7 @@
       "2023-04-23": 57,
       "2023-04-22": 55,
       "2023-04-21": 62,
-      "2023-04-20": 101,
-      "2023-04-19": 21
+      "2023-04-20": 101
     }
   },
   {
@@ -864,11 +863,11 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "96.10%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "95.95%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.47%",
     "time": 380,
     "timeDay": 376,
@@ -876,7 +875,7 @@
     "timeMonth": 382,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-05-28": 117,
+      "2023-05-28": 118,
       "2023-05-27": 15,
       "2023-05-26": 17,
       "2023-05-25": 61,
@@ -914,8 +913,7 @@
       "2023-04-22": 55,
       "2023-04-21": 61,
       "2023-04-20": 100,
-      "2023-04-19": 42,
-      "2023-04-17": 21
+      "2023-04-19": 42
     }
   }
 ]
