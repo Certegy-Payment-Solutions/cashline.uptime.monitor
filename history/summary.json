@@ -573,11 +573,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashline.certegy.com.ico",
     "slug": "cashline-java-dev",
     "status": "up",
-    "uptime": "62.09%",
+    "uptime": "62.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.09%",
+    "uptimeYear": "62.10%",
     "time": 1902,
     "timeDay": 750,
     "timeWeek": 808,
@@ -806,10 +806,10 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "96.82%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "96.81%",
     "uptimeMonth": "96.28%",
     "uptimeYear": "99.44%",
     "time": 377,
@@ -818,6 +818,7 @@
     "timeMonth": 381,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2023-05-28": 1,
       "2023-05-27": 16,
       "2023-05-26": 17,
       "2023-05-25": 64,
@@ -856,8 +857,7 @@
       "2023-04-21": 62,
       "2023-04-20": 101,
       "2023-04-19": 42,
-      "2023-04-17": 37,
-      "2023-04-16": 27
+      "2023-04-17": 37
     }
   },
   {
@@ -865,18 +865,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "96.89%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "96.88%",
     "uptimeMonth": "96.32%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 380,
     "timeDay": 400,
     "timeWeek": 370,
     "timeMonth": 382,
     "timeYear": 380,
     "dailyMinutesDown": {
+      "2023-05-28": 1,
       "2023-05-27": 15,
       "2023-05-26": 17,
       "2023-05-25": 61,
@@ -916,7 +917,7 @@
       "2023-04-20": 100,
       "2023-04-19": 42,
       "2023-04-17": 36,
-      "2023-04-16": 66
+      "2023-04-16": 46
     }
   }
 ]
