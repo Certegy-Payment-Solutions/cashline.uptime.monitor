@@ -344,7 +344,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.20%",
+    "uptimeYear": "86.21%",
     "time": 7920,
     "timeDay": 963,
     "timeWeek": 920,
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
     "status": "up",
-    "uptime": "63.59%",
+    "uptime": "63.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -789,11 +789,11 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "94.54%",
-    "uptimeMonth": "95.92%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "95.91%",
     "uptimeYear": "99.41%",
     "time": 378,
     "timeDay": 411,
@@ -801,7 +801,7 @@
     "timeMonth": 388,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-06-11": 58,
+      "2023-06-11": 59,
       "2023-06-10": 49,
       "2023-06-08": 38,
       "2023-06-07": 44,
@@ -844,8 +844,7 @@
       "2023-04-30": 22,
       "2023-04-29": 26,
       "2023-04-28": 20,
-      "2023-04-27": 104,
-      "2023-04-26": 21
+      "2023-04-27": 104
     }
   },
   {
@@ -853,19 +852,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "94.61%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "94.59%",
     "uptimeMonth": "95.95%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 380,
     "timeDay": 399,
     "timeWeek": 381,
     "timeMonth": 385,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-06-11": 57,
+      "2023-06-11": 58,
       "2023-06-10": 48,
       "2023-06-08": 38,
       "2023-06-07": 41,
@@ -909,7 +908,7 @@
       "2023-04-29": 25,
       "2023-04-28": 19,
       "2023-04-27": 101,
-      "2023-04-26": 46
+      "2023-04-26": 21
     }
   }
 ]
