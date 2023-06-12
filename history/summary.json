@@ -344,7 +344,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.67%",
+    "uptimeYear": "86.68%",
     "time": 7902,
     "timeDay": 745,
     "timeWeek": 854,
@@ -413,7 +413,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.65%",
+    "uptimeYear": "64.66%",
     "time": 242,
     "timeDay": 92,
     "timeWeek": 237,
@@ -563,7 +563,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.61%",
+    "uptimeYear": "64.62%",
     "time": 1868,
     "timeDay": 700,
     "timeWeek": 897,
@@ -786,11 +786,11 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "95.88%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "99.41%",
     "time": 378,
     "timeDay": 376,
@@ -798,7 +798,7 @@
     "timeMonth": 387,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-06-12": 101,
+      "2023-06-12": 102,
       "2023-06-11": 59,
       "2023-06-10": 49,
       "2023-06-08": 38,
@@ -842,7 +842,7 @@
       "2023-04-30": 22,
       "2023-04-29": 26,
       "2023-04-28": 20,
-      "2023-04-27": 44
+      "2023-04-27": 24
     }
   },
   {
@@ -850,19 +850,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "94.06%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "94.05%",
     "uptimeMonth": "95.94%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 380,
     "timeDay": 375,
     "timeWeek": 385,
     "timeMonth": 385,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-06-12": 85,
+      "2023-06-12": 86,
       "2023-06-11": 57,
       "2023-06-10": 48,
       "2023-06-08": 38,
@@ -906,7 +906,7 @@
       "2023-04-30": 22,
       "2023-04-29": 25,
       "2023-04-28": 19,
-      "2023-04-27": 82
+      "2023-04-27": 59
     }
   }
 ]
