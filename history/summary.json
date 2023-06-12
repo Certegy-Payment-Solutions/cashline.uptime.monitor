@@ -413,7 +413,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.47%",
+    "uptimeYear": "64.48%",
     "time": 242,
     "timeDay": 92,
     "timeWeek": 237,
@@ -786,19 +786,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "95.84%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "94.20%",
+    "uptimeMonth": "95.83%",
     "uptimeYear": "99.41%",
     "time": 377,
-    "timeDay": 352,
-    "timeWeek": 399,
+    "timeDay": 355,
+    "timeWeek": 398,
     "timeMonth": 388,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-06-12": 60,
+      "2023-06-12": 65,
       "2023-06-11": 59,
       "2023-06-10": 49,
       "2023-06-08": 38,
@@ -842,7 +842,7 @@
       "2023-04-30": 22,
       "2023-04-29": 26,
       "2023-04-28": 20,
-      "2023-04-27": 60
+      "2023-04-27": 84
     }
   },
   {
@@ -850,19 +850,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "94.31%",
-    "uptimeMonth": "95.87%",
-    "uptimeYear": "99.42%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "95.86%",
+    "uptimeYear": "99.41%",
     "time": 380,
-    "timeDay": 359,
-    "timeWeek": 384,
+    "timeDay": 362,
+    "timeWeek": 383,
     "timeMonth": 385,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-06-12": 59,
+      "2023-06-12": 65,
       "2023-06-11": 57,
       "2023-06-10": 48,
       "2023-06-08": 38,
@@ -906,7 +906,7 @@
       "2023-04-30": 22,
       "2023-04-29": 25,
       "2023-04-28": 19,
-      "2023-04-27": 82
+      "2023-04-27": 101
     }
   }
 ]
