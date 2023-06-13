@@ -742,10 +742,10 @@
     "url": "https://dashboard.certegy.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.certegy.com.ico",
     "slug": "bnpl-consumer-portal-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
@@ -753,7 +753,9 @@
     "timeWeek": 59,
     "timeMonth": 67,
     "timeYear": 95,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-13": 1
+    }
   },
   {
     "name": "Bankpay - Prod",
@@ -784,9 +786,9 @@
     "slug": "bankpay-cce",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "92.22%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "95.94%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "95.96%",
     "uptimeYear": "99.40%",
     "time": 378,
     "timeDay": 385,
@@ -794,7 +796,7 @@
     "timeMonth": 386,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-06-13": 56,
+      "2023-06-13": 47,
       "2023-06-12": 126,
       "2023-06-11": 59,
       "2023-06-10": 49,
@@ -837,7 +839,8 @@
       "2023-05-02": 72,
       "2023-05-01": 46,
       "2023-04-30": 22,
-      "2023-04-29": 26
+      "2023-04-29": 26,
+      "2023-04-28": 20
     }
   },
   {
@@ -847,9 +850,9 @@
     "slug": "bankpay-qa",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.00%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "99.41%",
     "time": 380,
     "timeDay": 383,
@@ -857,7 +860,7 @@
     "timeMonth": 384,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-06-13": 55,
+      "2023-06-13": 46,
       "2023-06-12": 109,
       "2023-06-11": 57,
       "2023-06-10": 48,
@@ -902,7 +905,7 @@
       "2023-04-30": 22,
       "2023-04-29": 25,
       "2023-04-28": 19,
-      "2023-04-27": 23
+      "2023-04-27": 43
     }
   }
 ]
