@@ -343,7 +343,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.30%",
+    "uptimeYear": "89.31%",
     "time": 7795,
     "timeDay": 880,
     "timeWeek": 902,
@@ -402,7 +402,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.29%",
+    "uptimeYear": "67.30%",
     "time": 240,
     "timeDay": 77,
     "timeWeek": 171,
@@ -542,7 +542,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.24%",
+    "uptimeYear": "67.25%",
     "time": 1853,
     "timeDay": 641,
     "timeWeek": 818,
@@ -755,10 +755,10 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "91.96%",
-    "uptimeWeek": "84.72%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "85.12%",
     "uptimeMonth": "89.66%",
     "uptimeYear": "98.93%",
     "time": 377,
@@ -767,7 +767,7 @@
     "timeMonth": 379,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-06-22": 80,
+      "2023-06-22": 81,
       "2023-06-21": 83,
       "2023-06-20": 243,
       "2023-06-19": 101,
@@ -807,7 +807,7 @@
       "2023-05-14": 64,
       "2023-05-13": 86,
       "2023-05-12": 81,
-      "2023-05-11": 50
+      "2023-05-11": 26
     }
   },
   {
@@ -815,10 +815,10 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "85.13%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "85.53%",
     "uptimeMonth": "89.91%",
     "uptimeYear": "98.93%",
     "time": 379,
@@ -827,7 +827,7 @@
     "timeMonth": 373,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-06-22": 49,
+      "2023-06-22": 51,
       "2023-06-21": 79,
       "2023-06-20": 241,
       "2023-06-19": 99,
@@ -868,8 +868,7 @@
       "2023-05-13": 83,
       "2023-05-12": 80,
       "2023-05-11": 49,
-      "2023-05-10": 61,
-      "2023-05-09": 19
+      "2023-05-10": 61
     }
   }
 ]
