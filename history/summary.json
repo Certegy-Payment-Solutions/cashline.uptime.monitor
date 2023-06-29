@@ -382,8 +382,7 @@
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
-      "2022-06-30": 1440,
-      "2022-06-29": 1440
+      "2022-06-30": 1440
     }
   },
   {
@@ -516,8 +515,7 @@
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
-      "2022-06-30": 1440,
-      "2022-06-29": 1440
+      "2022-06-30": 1440
     }
   },
   {
@@ -652,8 +650,7 @@
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
-      "2022-06-30": 1440,
-      "2022-06-29": 1440
+      "2022-06-30": 1440
     }
   },
   {
@@ -737,19 +734,20 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "89.54%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "89.53%",
     "uptimeYear": "98.94%",
     "time": 377,
-    "timeDay": 402,
-    "timeWeek": 374,
-    "timeMonth": 377,
+    "timeDay": 408,
+    "timeWeek": 375,
+    "timeMonth": 378,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-06-28": 1,
+      "2023-06-29": 0,
+      "2023-06-28": 6,
       "2023-06-26": 61,
       "2023-06-25": 175,
       "2023-06-24": 133,
@@ -795,19 +793,20 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "89.79%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "89.78%",
     "uptimeYear": "98.94%",
-    "time": 378,
-    "timeDay": 355,
-    "timeWeek": 364,
+    "time": 379,
+    "timeDay": 365,
+    "timeWeek": 365,
     "timeMonth": 371,
-    "timeYear": 378,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-06-28": 1,
+      "2023-06-29": 0,
+      "2023-06-28": 6,
       "2023-06-26": 61,
       "2023-06-25": 173,
       "2023-06-24": 131,
