@@ -496,11 +496,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashline.certegy.com.ico",
     "slug": "cashline-java-dev",
     "status": "up",
-    "uptime": "66.42%",
+    "uptime": "66.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.78%",
+    "uptimeYear": "72.79%",
     "time": 1810,
     "timeDay": 1004,
     "timeWeek": 949,
@@ -693,19 +693,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "96.97%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "90.20%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 378,
     "timeDay": 380,
     "timeWeek": 393,
     "timeMonth": 377,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-07-12": 19,
+      "2023-07-12": 20,
       "2023-07-11": 15,
       "2023-07-10": 40,
       "2023-07-09": 35,
@@ -743,7 +743,7 @@
       "2023-06-04": 16,
       "2023-06-03": 27,
       "2023-06-02": 81,
-      "2023-06-01": 112
+      "2023-06-01": 56
     }
   },
   {
@@ -751,10 +751,10 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "97.48%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "97.47%",
     "uptimeMonth": "90.48%",
     "uptimeYear": "98.97%",
     "time": 380,
@@ -763,7 +763,7 @@
     "timeMonth": 378,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-07-12": 18,
+      "2023-07-12": 20,
       "2023-07-10": 24,
       "2023-07-09": 19,
       "2023-07-08": 35,
@@ -804,8 +804,7 @@
       "2023-05-31": 20,
       "2023-05-30": 23,
       "2023-05-29": 24,
-      "2023-05-28": 117,
-      "2023-05-27": 15
+      "2023-05-28": 117
     }
   }
 ]
