@@ -363,8 +363,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
-      "2022-07-15": 1440,
-      "2022-07-14": 1440
+      "2022-07-15": 1440
     }
   },
   {
@@ -482,8 +481,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
-      "2022-07-15": 1440,
-      "2022-07-14": 1440
+      "2022-07-15": 1440
     }
   },
   {
@@ -496,7 +494,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.13%",
+    "uptimeYear": "73.14%",
     "time": 1806,
     "timeDay": 736,
     "timeWeek": 935,
@@ -603,8 +601,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
-      "2022-07-15": 1440,
-      "2022-07-14": 1440
+      "2022-07-15": 1440
     }
   },
   {
@@ -688,19 +685,20 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "90.45%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "90.40%",
     "uptimeYear": "98.99%",
     "time": 378,
-    "timeDay": 350,
-    "timeWeek": 390,
+    "timeDay": 340,
+    "timeWeek": 388,
     "timeMonth": 379,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-07-13": 31,
+      "2023-07-14": 20,
+      "2023-07-13": 33,
       "2023-07-12": 20,
       "2023-07-11": 15,
       "2023-07-10": 40,
@@ -747,19 +745,20 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "down",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "90.70%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "90.65%",
     "uptimeYear": "98.98%",
     "time": 380,
-    "timeDay": 358,
-    "timeWeek": 394,
+    "timeDay": 350,
+    "timeWeek": 393,
     "timeMonth": 379,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-07-13": 33,
+      "2023-07-14": 20,
+      "2023-07-13": 34,
       "2023-07-12": 19,
       "2023-07-10": 24,
       "2023-07-09": 19,
