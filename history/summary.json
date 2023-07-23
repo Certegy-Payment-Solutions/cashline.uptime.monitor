@@ -338,7 +338,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.66%",
+    "uptimeYear": "97.68%",
     "time": 7297,
     "timeDay": 974,
     "timeWeek": 1119,
@@ -366,7 +366,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.65%",
+    "uptimeYear": "75.67%",
     "time": 242,
     "timeDay": 407,
     "timeWeek": 172,
@@ -475,7 +475,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.60%",
+    "uptimeYear": "75.62%",
     "time": 1786,
     "timeDay": 982,
     "timeWeek": 805,
@@ -657,11 +657,11 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "96.85%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "96.92%",
     "uptimeYear": "99.06%",
     "time": 377,
     "timeDay": 398,
@@ -669,7 +669,7 @@
     "timeMonth": 382,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-07-23": 29,
+      "2023-07-23": 30,
       "2023-07-22": 1,
       "2023-07-20": 35,
       "2023-07-19": 112,
@@ -709,8 +709,7 @@
       "2023-06-12": 126,
       "2023-06-11": 59,
       "2023-06-10": 49,
-      "2023-06-08": 38,
-      "2023-06-07": 15
+      "2023-06-08": 38
     }
   },
   {
@@ -718,19 +717,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.05%",
-    "uptimeYear": "99.00%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "99.01%",
     "time": 380,
     "timeDay": 411,
     "timeWeek": 391,
     "timeMonth": 393,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-07-23": 29,
+      "2023-07-23": 30,
       "2023-07-22": 0,
       "2023-07-20": 33,
       "2023-07-19": 111,
@@ -775,7 +774,7 @@
       "2023-06-05": 71,
       "2023-06-04": 15,
       "2023-06-03": 27,
-      "2023-06-02": 64
+      "2023-06-02": 43
     }
   }
 ]
