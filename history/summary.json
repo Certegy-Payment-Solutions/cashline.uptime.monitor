@@ -361,7 +361,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.29%",
+    "uptimeYear": "77.31%",
     "time": 241,
     "timeDay": 102,
     "timeWeek": 223,
@@ -464,7 +464,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.25%",
+    "uptimeYear": "77.27%",
     "time": 1930,
     "timeDay": 24100,
     "timeWeek": 10878,
@@ -640,19 +640,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "93.98%",
-    "uptimeWeek": "98.02%",
+    "uptimeDay": "94.63%",
+    "uptimeWeek": "98.01%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "99.08%",
     "time": 377,
-    "timeDay": 418,
+    "timeDay": 412,
     "timeWeek": 364,
     "timeMonth": 378,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-07-29": 31,
+      "2023-07-29": 32,
       "2023-07-28": 64,
       "2023-07-26": 26,
       "2023-07-23": 77,
@@ -692,7 +692,7 @@
       "2023-06-15": 1440,
       "2023-06-14": 794,
       "2023-06-13": 103,
-      "2023-06-12": 74
+      "2023-06-12": 56
     }
   },
   {
@@ -700,19 +700,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "97.59%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.07%",
     "time": 380,
-    "timeDay": 415,
+    "timeDay": 406,
     "timeWeek": 369,
     "timeMonth": 395,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-07-29": 31,
+      "2023-07-29": 32,
       "2023-07-28": 61,
       "2023-07-26": 26,
       "2023-07-23": 77,
@@ -755,7 +755,7 @@
       "2023-06-11": 57,
       "2023-06-10": 48,
       "2023-06-08": 38,
-      "2023-06-07": 41
+      "2023-06-07": 13
     }
   }
 ]
