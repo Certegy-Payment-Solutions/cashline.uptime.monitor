@@ -357,11 +357,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
     "status": "up",
-    "uptime": "69.11%",
+    "uptime": "69.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.22%",
+    "uptimeYear": "82.24%",
     "time": 245,
     "timeDay": 104,
     "timeWeek": 269,
@@ -446,7 +446,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.18%",
+    "uptimeYear": "82.20%",
     "time": 1996,
     "timeDay": 837,
     "timeWeek": 968,
@@ -604,10 +604,10 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "95.77%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "95.75%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "99.12%",
     "time": 376,
@@ -616,7 +616,7 @@
     "timeMonth": 355,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-08-16": 22,
+      "2023-08-16": 23,
       "2023-08-15": 4,
       "2023-08-14": 196,
       "2023-08-13": 73,
@@ -668,7 +668,7 @@
       "2023-06-20": 243,
       "2023-06-19": 101,
       "2023-06-18": 37,
-      "2023-06-17": 42
+      "2023-06-17": 16
     }
   },
   {
@@ -676,19 +676,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.11%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "99.12%",
     "time": 384,
     "timeDay": 384,
     "timeWeek": 361,
     "timeMonth": 449,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2023-08-16": 22,
+      "2023-08-16": 24,
       "2023-08-15": 4,
       "2023-08-14": 197,
       "2023-08-13": 72,
@@ -739,8 +739,7 @@
       "2023-06-20": 241,
       "2023-06-19": 99,
       "2023-06-18": 36,
-      "2023-06-17": 162,
-      "2023-06-16": 11
+      "2023-06-17": 155
     }
   }
 ]
