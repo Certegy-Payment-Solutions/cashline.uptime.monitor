@@ -34,7 +34,10 @@ sites:
     url:  https://cce.bankpay.certegy.com/health
   - name: Bankpay - QA
     url:  https://qa.bankpay.certegy.com/health
- 
+  - name: Cashline Admin Portal - QAT
+    url:  https://qat.cashlineadminportal.com/
+  - name: Cashline Admin Portal - DEV
+    url:  https://dev.cashlineadminportal.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
