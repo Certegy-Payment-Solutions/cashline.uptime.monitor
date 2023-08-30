@@ -38,6 +38,8 @@ sites:
     url:  https://qat.cashlineadminportal.com/
   - name: Cashline Admin Portal - DEV
     url:  https://dev.cashlineadminportal.com/
+  - name: Cashline Admin Portal - Prod
+    url:  https://certegycashline.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
