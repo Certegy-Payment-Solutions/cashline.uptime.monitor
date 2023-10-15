@@ -374,17 +374,16 @@
     "slug": "cashline-tomcat-dev",
     "status": "up",
     "uptime": "72.68%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "98.42%",
     "time": 213,
     "timeDay": 198,
     "timeWeek": 195,
     "timeMonth": 197,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-10-14": 7,
       "2023-10-13": 40,
       "2023-10-12": 38,
       "2023-10-10": 27,
@@ -420,8 +419,7 @@
       "2022-10-19": 865,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   },
   {
@@ -431,17 +429,16 @@
     "slug": "cashline-java-dev",
     "status": "up",
     "uptime": "72.66%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.39%",
     "time": 1035,
     "timeDay": 319,
     "timeWeek": 300,
     "timeMonth": 314,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2023-10-14": 6,
       "2023-10-13": 38,
       "2023-10-12": 38,
       "2023-10-10": 27,
@@ -475,8 +472,7 @@
       "2022-10-19": 865,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   },
   {
@@ -560,9 +556,9 @@
     "slug": "bankpay-cce",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "97.91%",
     "uptimeYear": "99.09%",
     "time": 381,
     "timeDay": 333,
@@ -570,7 +566,6 @@
     "timeMonth": 491,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2023-10-14": 6,
       "2023-10-13": 38,
       "2023-10-12": 37,
       "2023-10-10": 26,
@@ -645,7 +640,7 @@
       "2023-07-08": 36,
       "2023-07-07": 45,
       "2023-07-06": 80,
-      "2023-07-05": 20
+      "2023-07-05": 36
     }
   },
   {
@@ -655,9 +650,9 @@
     "slug": "bankpay-qa",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "99.09%",
     "time": 392,
     "timeDay": 321,
@@ -665,7 +660,6 @@
     "timeMonth": 542,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-10-14": 5,
       "2023-10-13": 37,
       "2023-10-12": 37,
       "2023-10-10": 26,
@@ -740,7 +734,8 @@
       "2023-07-06": 77,
       "2023-07-05": 102,
       "2023-07-04": 16,
-      "2023-07-03": 67
+      "2023-07-03": 67,
+      "2023-07-02": 20
     }
   },
   {
@@ -767,18 +762,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashlineadminportal.com.ico",
     "slug": "cashline-admin-portal-dev",
     "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.35%",
+    "uptime": "98.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.36%",
     "time": 252,
     "timeDay": 265,
     "timeWeek": 244,
     "timeMonth": 245,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2023-10-14": 5,
       "2023-10-13": 36,
       "2023-10-12": 36,
       "2023-10-10": 26,
