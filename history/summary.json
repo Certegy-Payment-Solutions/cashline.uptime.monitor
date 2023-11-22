@@ -97,10 +97,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cce.cashline.certegy.com.ico",
     "slug": "cashline-java-cce",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 730,
     "timeDay": 3075,
@@ -108,7 +108,6 @@
     "timeMonth": 1036,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2023-11-22": 8,
       "2023-02-15": 184,
       "2023-02-14": 323,
       "2023-02-13": 394,
@@ -242,18 +241,19 @@
     "url": "https://dev.certegycashline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "95.69%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "95.66%",
     "uptimeMonth": "96.66%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.51%",
     "time": 206,
     "timeDay": 189,
     "timeWeek": 179,
     "timeMonth": 198,
     "timeYear": 206,
     "dailyMinutesDown": {
+      "2023-11-22": 3,
       "2023-11-21": 91,
       "2023-11-19": 38,
       "2023-11-18": 67,
@@ -310,8 +310,7 @@
       "2023-09-14": 37,
       "2023-09-13": 21,
       "2023-09-12": 15,
-      "2023-09-10": 190,
-      "2023-09-09": 57
+      "2023-09-10": 18
     }
   },
   {
@@ -319,10 +318,10 @@
     "url": "https://dev.cashline.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashline.certegy.com.ico",
     "slug": "cashline-java-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "95.77%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "95.74%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "99.46%",
     "time": 760,
@@ -331,6 +330,7 @@
     "timeMonth": 358,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2023-11-22": 2,
       "2023-11-21": 90,
       "2023-11-19": 36,
       "2023-11-18": 66,
@@ -386,8 +386,7 @@
       "2023-09-10": 189,
       "2023-09-09": 57,
       "2023-09-07": 17,
-      "2023-02-15": 130,
-      "2023-02-14": 18
+      "2023-02-15": 130
     }
   },
   {
@@ -469,10 +468,10 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "95.84%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "95.82%",
     "uptimeMonth": "97.05%",
     "uptimeYear": "99.46%",
     "time": 376,
@@ -481,6 +480,7 @@
     "timeMonth": 319,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2023-11-22": 2,
       "2023-11-21": 88,
       "2023-11-19": 36,
       "2023-11-18": 65,
@@ -542,8 +542,7 @@
       "2023-08-28": 29,
       "2023-08-27": 25,
       "2023-08-26": 18,
-      "2023-08-25": 19,
-      "2023-08-23": 20
+      "2023-08-25": 19
     }
   },
   {
@@ -551,18 +550,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "95.92%",
-    "uptimeMonth": "97.11%",
-    "uptimeYear": "99.47%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "99.48%",
     "time": 386,
     "timeDay": 319,
     "timeWeek": 302,
     "timeMonth": 325,
     "timeYear": 387,
     "dailyMinutesDown": {
+      "2023-11-22": 3,
       "2023-11-21": 87,
       "2023-11-19": 35,
       "2023-11-18": 63,
@@ -625,9 +625,7 @@
       "2023-08-26": 17,
       "2023-08-25": 18,
       "2023-08-23": 19,
-      "2023-08-22": 37,
-      "2023-08-16": 22,
-      "2023-08-15": 4
+      "2023-08-22": 37
     }
   },
   {
@@ -653,11 +651,11 @@
     "url": "https://dev.cashlineadminportal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashlineadminportal.com.ico",
     "slug": "cashline-admin-portal-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "98.06%",
     "time": 251,
     "timeDay": 232,
@@ -665,6 +663,7 @@
     "timeMonth": 250,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2023-11-22": 3,
       "2023-11-21": 86,
       "2023-11-19": 34,
       "2023-11-18": 47,
