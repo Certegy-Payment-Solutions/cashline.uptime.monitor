@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "92.34%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "95.31%",
+    "uptime": "99.65%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "95.32%",
     "uptimeYear": "99.48%",
     "time": 204,
-    "timeDay": 196,
+    "timeDay": 202,
     "timeWeek": 198,
     "timeMonth": 191,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-12-11": 110,
+      "2023-12-11": 104,
       "2023-12-10": 61,
       "2023-12-09": 26,
       "2023-12-08": 15,
@@ -246,7 +246,9 @@
       "2023-11-02": 48,
       "2023-10-31": 19,
       "2023-10-30": 16,
-      "2023-10-27": 24
+      "2023-10-27": 24,
+      "2023-10-25": 22,
+      "2023-10-24": 7
     }
   },
   {
@@ -256,17 +258,17 @@
     "slug": "cashline-java-dev",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "95.53%",
     "uptimeYear": "99.48%",
     "time": 864,
-    "timeDay": 834,
+    "timeDay": 835,
     "timeWeek": 823,
     "timeMonth": 951,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2023-12-11": 109,
+      "2023-12-11": 103,
       "2023-12-10": 60,
       "2023-12-09": 25,
       "2023-12-07": 60,
@@ -311,7 +313,8 @@
       "2023-10-23": 20,
       "2023-10-22": 15,
       "2023-10-21": 27,
-      "2023-10-20": 23
+      "2023-10-20": 23,
+      "2023-10-19": 19
     }
   },
   {
@@ -395,17 +398,17 @@
     "slug": "bankpay-cce",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "95.53%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "95.54%",
     "uptimeYear": "99.48%",
     "time": 376,
-    "timeDay": 276,
+    "timeDay": 283,
     "timeWeek": 292,
     "timeMonth": 339,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-12-11": 106,
+      "2023-12-11": 101,
       "2023-12-10": 58,
       "2023-12-09": 25,
       "2023-12-07": 60,
@@ -452,7 +455,8 @@
       "2023-10-18": 24,
       "2023-10-13": 38,
       "2023-10-12": 37,
-      "2023-10-10": 26
+      "2023-10-10": 26,
+      "2023-10-09": 20
     }
   },
   {
@@ -462,17 +466,17 @@
     "slug": "bankpay-qa",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "92.74%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "94.65%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "99.41%",
     "time": 389,
-    "timeDay": 311,
+    "timeDay": 317,
     "timeWeek": 291,
     "timeMonth": 381,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2023-12-11": 104,
+      "2023-12-11": 99,
       "2023-12-10": 57,
       "2023-12-09": 25,
       "2023-12-07": 58,
@@ -518,7 +522,8 @@
       "2023-10-19": 18,
       "2023-10-18": 23,
       "2023-10-13": 37,
-      "2023-10-12": 37
+      "2023-10-12": 37,
+      "2023-10-10": 26
     }
   },
   {
@@ -545,18 +550,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashlineadminportal.com.ico",
     "slug": "cashline-admin-portal-dev",
     "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "98.02%",
+    "uptime": "98.01%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "98.01%",
     "time": 250,
-    "timeDay": 255,
+    "timeDay": 259,
     "timeWeek": 247,
     "timeMonth": 242,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-12-11": 103,
+      "2023-12-11": 98,
       "2023-12-10": 41,
       "2023-12-09": 24,
       "2023-12-07": 57,
@@ -610,7 +615,8 @@
       "2023-09-30": 55,
       "2023-09-28": 25,
       "2023-09-27": 18,
-      "2023-09-26": 63
+      "2023-09-26": 63,
+      "2023-09-24": 19
     }
   },
   {
