@@ -194,10 +194,10 @@
     "url": "https://dev.certegycashline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "97.98%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "99.46%",
     "time": 198,
@@ -206,6 +206,7 @@
     "timeMonth": 181,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2024-01-06": 2,
       "2024-01-05": 50,
       "2024-01-04": 37,
       "2024-01-03": 48,
@@ -251,7 +252,7 @@
       "2023-11-22": 33,
       "2023-11-21": 91,
       "2023-11-19": 38,
-      "2023-11-18": 38
+      "2023-11-18": 17
     }
   },
   {
@@ -259,11 +260,11 @@
     "url": "https://dev.cashline.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashline.certegy.com.ico",
     "slug": "cashline-java-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "96.51%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.45%",
     "time": 861,
     "timeDay": 1227,
@@ -271,6 +272,7 @@
     "timeMonth": 843,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2024-01-06": 2,
       "2024-01-05": 50,
       "2024-01-04": 22,
       "2024-01-03": 46,
@@ -317,7 +319,7 @@
       "2023-11-19": 36,
       "2023-11-18": 66,
       "2023-11-17": 105,
-      "2023-11-16": 46
+      "2023-11-16": 26
     }
   },
   {
@@ -397,11 +399,11 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "96.59%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "96.58%",
     "uptimeYear": "99.46%",
     "time": 371,
     "timeDay": 1258,
@@ -409,6 +411,7 @@
     "timeMonth": 292,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2024-01-06": 2,
       "2024-01-05": 50,
       "2024-01-04": 22,
       "2024-01-03": 46,
@@ -455,7 +458,7 @@
       "2023-11-19": 36,
       "2023-11-18": 65,
       "2023-11-17": 105,
-      "2023-11-16": 43
+      "2023-11-16": 24
     }
   },
   {
@@ -463,11 +466,11 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "96.64%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "99.39%",
     "time": 398,
     "timeDay": 4760,
@@ -475,7 +478,7 @@
     "timeMonth": 453,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-01-06": 27,
+      "2024-01-06": 23,
       "2024-01-05": 48,
       "2024-01-04": 21,
       "2024-01-03": 45,
@@ -548,18 +551,19 @@
     "url": "https://dev.cashlineadminportal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashlineadminportal.com.ico",
     "slug": "cashline-admin-portal-dev",
-    "status": "up",
-    "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "98.46%",
+    "status": "down",
+    "uptime": "98.47%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "98.47%",
     "time": 244,
     "timeDay": 227,
     "timeWeek": 236,
     "timeMonth": 229,
     "timeYear": 244,
     "dailyMinutesDown": {
+      "2024-01-06": 3,
       "2024-01-05": 48,
       "2024-01-04": 21,
       "2024-01-03": 44,
@@ -608,7 +612,7 @@
       "2023-11-16": 68,
       "2023-11-15": 56,
       "2023-11-14": 95,
-      "2023-11-13": 48
+      "2023-11-13": 31
     }
   },
   {
