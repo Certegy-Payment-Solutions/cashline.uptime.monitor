@@ -466,19 +466,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "89.10%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "99.40%",
     "time": 410,
     "timeDay": 3695,
     "timeWeek": 944,
     "timeMonth": 622,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2024-01-14": 139,
+      "2024-01-14": 141,
       "2024-01-13": 46,
       "2024-01-12": 19,
       "2024-01-11": 45,
@@ -525,7 +525,7 @@
       "2023-11-27": 497,
       "2023-11-26": 51,
       "2023-11-25": 94,
-      "2023-11-24": 51
+      "2023-11-24": 25
     }
   },
   {
