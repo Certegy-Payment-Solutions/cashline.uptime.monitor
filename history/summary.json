@@ -194,11 +194,11 @@
     "url": "https://dev.certegycashline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "88.42%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "96.75%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "99.45%",
     "time": 198,
     "timeDay": 205,
@@ -206,7 +206,7 @@
     "timeMonth": 183,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-01-15": 59,
+      "2024-01-15": 61,
       "2024-01-14": 139,
       "2024-01-13": 48,
       "2024-01-12": 20,
@@ -252,8 +252,7 @@
       "2023-11-29": 220,
       "2023-11-28": 142,
       "2023-11-27": 85,
-      "2023-11-26": 52,
-      "2023-11-25": 17
+      "2023-11-26": 52
     }
   },
   {
@@ -261,10 +260,10 @@
     "url": "https://dev.cashline.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashline.certegy.com.ico",
     "slug": "cashline-java-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "96.24%",
+    "uptimeDay": "89.44%",
+    "uptimeWeek": "96.22%",
     "uptimeMonth": "96.91%",
     "uptimeYear": "99.45%",
     "time": 979,
@@ -273,7 +272,7 @@
     "timeMonth": 1388,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2024-01-15": 58,
+      "2024-01-15": 60,
       "2024-01-14": 123,
       "2024-01-13": 47,
       "2024-01-12": 19,
@@ -320,7 +319,7 @@
       "2023-11-27": 84,
       "2023-11-26": 52,
       "2023-11-25": 99,
-      "2023-11-24": 52
+      "2023-11-24": 26
     }
   },
   {
@@ -400,19 +399,19 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "89.71%",
-    "uptimeWeek": "96.30%",
+    "uptimeDay": "89.56%",
+    "uptimeWeek": "96.28%",
     "uptimeMonth": "96.99%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 370,
     "timeDay": 396,
     "timeWeek": 297,
     "timeMonth": 299,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2024-01-15": 58,
+      "2024-01-15": 60,
       "2024-01-14": 120,
       "2024-01-13": 46,
       "2024-01-12": 19,
@@ -459,7 +458,7 @@
       "2023-11-27": 83,
       "2023-11-26": 51,
       "2023-11-25": 97,
-      "2023-11-24": 51
+      "2023-11-24": 25
     }
   },
   {
@@ -469,17 +468,17 @@
     "slug": "bankpay-qa",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "82.67%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "81.88%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "99.38%",
     "time": 420,
     "timeDay": 5448,
     "timeWeek": 1431,
     "timeMonth": 733,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2024-01-15": 91,
+      "2024-01-15": 102,
       "2024-01-14": 188,
       "2024-01-13": 46,
       "2024-01-12": 19,
@@ -552,19 +551,19 @@
     "url": "https://dev.cashlineadminportal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashlineadminportal.com.ico",
     "slug": "cashline-admin-portal-dev",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "89.85%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "98.56%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "98.57%",
     "time": 244,
     "timeDay": 271,
     "timeWeek": 241,
     "timeMonth": 231,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-01-15": 57,
+      "2024-01-15": 60,
       "2024-01-14": 118,
       "2024-01-13": 44,
       "2024-01-12": 18,
@@ -614,7 +613,7 @@
       "2023-11-23": 62,
       "2023-11-22": 16,
       "2023-11-21": 86,
-      "2023-11-19": 34
+      "2023-11-19": 16
     }
   },
   {
