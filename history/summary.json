@@ -159,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qat.cashline.certegy.com.ico",
     "slug": "cashline-java-qa",
     "status": "up",
-    "uptime": "91.53%",
+    "uptime": "91.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -177,10 +177,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "93.20%",
-    "uptimeMonth": "93.77%",
+    "uptime": "99.68%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "93.54%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "99.45%",
     "time": 195,
     "timeDay": 190,
@@ -188,7 +188,7 @@
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-03-03": 146,
+      "2024-03-03": 140,
       "2024-03-02": 110,
       "2024-03-01": 243,
       "2024-02-29": 39,
@@ -219,7 +219,8 @@
       "2024-02-04": 36,
       "2024-02-03": 21,
       "2024-02-02": 39,
-      "2024-02-01": 87
+      "2024-02-01": 87,
+      "2024-01-31": 19
     }
   },
   {
@@ -229,9 +230,9 @@
     "slug": "cashline-java-dev",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "89.93%",
-    "uptimeWeek": "93.56%",
-    "uptimeMonth": "94.10%",
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "99.45%",
     "time": 904,
     "timeDay": 797,
@@ -239,7 +240,7 @@
     "timeMonth": 861,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2024-03-03": 145,
+      "2024-03-03": 139,
       "2024-03-02": 109,
       "2024-03-01": 243,
       "2024-02-29": 38,
@@ -273,7 +274,7 @@
       "2024-02-01": 86,
       "2024-01-31": 95,
       "2024-01-30": 38,
-      "2024-01-29": 39
+      "2024-01-29": 62
     }
   },
   {
@@ -355,17 +356,17 @@
     "slug": "bankpay-cce",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "93.46%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.45%",
     "time": 348,
     "timeDay": 290,
     "timeWeek": 263,
     "timeMonth": 270,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2024-03-03": 144,
+      "2024-03-03": 138,
       "2024-03-02": 107,
       "2024-03-01": 241,
       "2024-02-29": 38,
@@ -399,7 +400,7 @@
       "2024-02-01": 84,
       "2024-01-31": 94,
       "2024-01-30": 38,
-      "2024-01-29": 38
+      "2024-01-29": 61
     }
   },
   {
@@ -409,17 +410,17 @@
     "slug": "bankpay-qa",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "90.18%",
-    "uptimeWeek": "93.53%",
-    "uptimeMonth": "94.27%",
+    "uptimeDay": "90.54%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "99.46%",
     "time": 402,
     "timeDay": 272,
     "timeWeek": 264,
-    "timeMonth": 279,
+    "timeMonth": 278,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-03-03": 141,
+      "2024-03-03": 136,
       "2024-03-02": 107,
       "2024-03-01": 238,
       "2024-02-29": 38,
@@ -453,7 +454,8 @@
       "2024-02-01": 82,
       "2024-01-31": 93,
       "2024-01-30": 37,
-      "2024-01-29": 59
+      "2024-01-29": 59,
+      "2024-01-28": 15
     }
   },
   {
@@ -481,9 +483,9 @@
     "slug": "cashline-admin-portal-dev",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "90.30%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "90.64%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "98.94%",
     "time": 238,
     "timeDay": 229,
@@ -491,7 +493,7 @@
     "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-03-03": 140,
+      "2024-03-03": 135,
       "2024-03-02": 104,
       "2024-03-01": 238,
       "2024-02-29": 37,
@@ -528,7 +530,7 @@
       "2024-01-29": 58,
       "2024-01-28": 27,
       "2024-01-27": 21,
-      "2024-01-26": 50
+      "2024-01-26": 68
     }
   },
   {
