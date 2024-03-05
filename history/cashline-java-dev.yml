@@ -1,7 +1,7 @@
 url: https://dev.cashline.certegy.com/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-05T22:58:31.330Z
+status: up
+code: 200
+responseTime: 906
+lastUpdated: 2024-03-05T23:03:27.423Z
 startTime: 2022-06-07T18:47:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
