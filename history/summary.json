@@ -176,10 +176,10 @@
     "url": "https://dev.certegycashline.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "92.82%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "92.84%",
     "uptimeMonth": "94.11%",
     "uptimeYear": "99.40%",
     "time": 194,
@@ -188,7 +188,7 @@
     "timeMonth": 187,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-03-19": 61,
+      "2024-03-19": 63,
       "2024-03-18": 187,
       "2024-03-17": 89,
       "2024-03-16": 116,
@@ -219,7 +219,7 @@
       "2024-02-19": 124,
       "2024-02-18": 221,
       "2024-02-17": 183,
-      "2024-02-16": 97
+      "2024-02-16": 74
     }
   },
   {
@@ -227,19 +227,19 @@
     "url": "https://dev.cashline.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashline.certegy.com.ico",
     "slug": "cashline-java-dev",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "89.27%",
-    "uptimeWeek": "93.21%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "89.12%",
+    "uptimeWeek": "93.24%",
     "uptimeMonth": "94.46%",
-    "uptimeYear": "99.38%",
-    "time": 869,
+    "uptimeYear": "99.39%",
+    "time": 868,
     "timeDay": 191,
-    "timeWeek": 255,
+    "timeWeek": 254,
     "timeMonth": 752,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2024-03-19": 60,
+      "2024-03-19": 62,
       "2024-03-18": 185,
       "2024-03-17": 89,
       "2024-03-16": 115,
@@ -272,7 +272,7 @@
       "2024-02-17": 183,
       "2024-02-16": 95,
       "2024-02-15": 154,
-      "2024-02-14": 89
+      "2024-02-14": 62
     }
   },
   {
@@ -352,11 +352,11 @@
     "url": "https://cce.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/cce.bankpay.certegy.com.ico",
     "slug": "bankpay-cce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "89.42%",
-    "uptimeWeek": "93.31%",
-    "uptimeMonth": "94.49%",
+    "uptimeDay": "89.26%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.39%",
     "time": 342,
     "timeDay": 219,
@@ -364,7 +364,7 @@
     "timeMonth": 257,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-03-19": 60,
+      "2024-03-19": 62,
       "2024-03-18": 182,
       "2024-03-17": 87,
       "2024-03-16": 112,
@@ -397,7 +397,7 @@
       "2024-02-17": 183,
       "2024-02-16": 94,
       "2024-02-15": 152,
-      "2024-02-14": 61
+      "2024-02-14": 36
     }
   },
   {
@@ -405,19 +405,19 @@
     "url": "https://qa.bankpay.certegy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/qa.bankpay.certegy.com.ico",
     "slug": "bankpay-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "93.54%",
+    "uptimeDay": "89.37%",
+    "uptimeWeek": "93.56%",
     "uptimeMonth": "94.62%",
-    "uptimeYear": "99.39%",
+    "uptimeYear": "99.40%",
     "time": 395,
     "timeDay": 227,
-    "timeWeek": 269,
+    "timeWeek": 270,
     "timeMonth": 263,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-03-19": 58,
+      "2024-03-19": 61,
       "2024-03-18": 180,
       "2024-03-17": 86,
       "2024-03-16": 111,
@@ -450,7 +450,7 @@
       "2024-02-17": 182,
       "2024-02-16": 94,
       "2024-02-15": 151,
-      "2024-02-14": 126
+      "2024-02-14": 87
     }
   },
   {
@@ -476,19 +476,19 @@
     "url": "https://dev.cashlineadminportal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.cashlineadminportal.com.ico",
     "slug": "cashline-admin-portal-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "89.73%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "94.73%",
+    "uptimeDay": "89.48%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "98.91%",
     "time": 236,
     "timeDay": 178,
-    "timeWeek": 219,
+    "timeWeek": 220,
     "timeMonth": 217,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-03-19": 58,
+      "2024-03-19": 62,
       "2024-03-18": 178,
       "2024-03-17": 86,
       "2024-03-16": 110,
@@ -521,8 +521,7 @@
       "2024-02-17": 182,
       "2024-02-16": 91,
       "2024-02-15": 134,
-      "2024-02-14": 144,
-      "2024-02-13": 18
+      "2024-02-14": 144
     }
   },
   {
