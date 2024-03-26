@@ -177,18 +177,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.certegycashline.com.ico",
     "slug": "cashline-tomcat-dev",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "91.35%",
-    "uptimeWeek": "92.12%",
-    "uptimeMonth": "93.91%",
+    "uptime": "99.71%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "92.16%",
+    "uptimeMonth": "93.83%",
     "uptimeYear": "99.49%",
     "time": 193,
-    "timeDay": 162,
+    "timeDay": 165,
     "timeWeek": 195,
     "timeMonth": 193,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-03-25": 125,
+      "2024-03-25": 121,
       "2024-03-24": 125,
       "2024-03-23": 155,
       "2024-03-22": 96,
@@ -211,7 +211,8 @@
       "2024-03-04": 148,
       "2024-03-03": 140,
       "2024-03-02": 110,
-      "2024-03-01": 243
+      "2024-03-01": 243,
+      "2024-02-29": 39
     }
   },
   {
@@ -221,17 +222,17 @@
     "slug": "cashline-java-dev",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "92.54%",
-    "uptimeWeek": "92.69%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "99.47%",
     "time": 867,
-    "timeDay": 1129,
-    "timeWeek": 923,
+    "timeDay": 1145,
+    "timeWeek": 927,
     "timeMonth": 784,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2024-03-25": 109,
+      "2024-03-25": 106,
       "2024-03-24": 108,
       "2024-03-23": 139,
       "2024-03-22": 95,
@@ -259,7 +260,8 @@
       "2024-02-28": 27,
       "2024-02-27": 40,
       "2024-02-26": 41,
-      "2024-02-25": 81
+      "2024-02-25": 81,
+      "2024-02-24": 16
     }
   },
   {
@@ -341,17 +343,17 @@
     "slug": "bankpay-cce",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "92.97%",
-    "uptimeMonth": "93.96%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "92.99%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.48%",
     "time": 339,
-    "timeDay": 256,
+    "timeDay": 260,
     "timeWeek": 266,
     "timeMonth": 260,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-03-25": 104,
+      "2024-03-25": 101,
       "2024-03-24": 91,
       "2024-03-23": 137,
       "2024-03-22": 94,
@@ -379,7 +381,8 @@
       "2024-02-28": 26,
       "2024-02-27": 39,
       "2024-02-26": 57,
-      "2024-02-25": 79
+      "2024-02-25": 79,
+      "2024-02-24": 16
     }
   },
   {
@@ -389,17 +392,17 @@
     "slug": "bankpay-qa",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "93.09%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "93.12%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "99.48%",
     "time": 391,
-    "timeDay": 240,
+    "timeDay": 244,
     "timeWeek": 258,
     "timeMonth": 262,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-03-25": 103,
+      "2024-03-25": 101,
       "2024-03-24": 90,
       "2024-03-23": 135,
       "2024-03-22": 91,
@@ -428,7 +431,8 @@
       "2024-02-27": 38,
       "2024-02-26": 57,
       "2024-02-25": 79,
-      "2024-02-24": 48
+      "2024-02-24": 71,
+      "2024-02-23": 4
     }
   },
   {
@@ -458,12 +462,12 @@
     "uptime": "99.10%",
     "uptimeDay": "93.15%",
     "uptimeWeek": "93.39%",
-    "uptimeMonth": "94.26%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "99.10%",
     "time": 235,
-    "timeDay": 194,
+    "timeDay": 199,
     "timeWeek": 223,
-    "timeMonth": 219,
+    "timeMonth": 220,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-03-25": 99,
