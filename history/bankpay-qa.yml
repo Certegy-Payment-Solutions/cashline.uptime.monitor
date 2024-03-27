@@ -1,7 +1,7 @@
 url: https://qa.bankpay.certegy.com/health
-status: down
-code: 504
-responseTime: 5266
-lastUpdated: 2024-03-26T23:38:24.423Z
+status: up
+code: 200
+responseTime: 371
+lastUpdated: 2024-03-27T01:09:39.859Z
 startTime: 2022-07-27T14:23:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
